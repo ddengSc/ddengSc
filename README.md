@@ -4,5 +4,4 @@ A data-driven enthusiast. I am passionate about leveraging data to drive impactf
 I'm interested in: Data Science, Machine Learning, Software Engineering
 I’m currently learning: Advanced Machine Learning and AI techniques
 I’m looking to collaborate on: Innovative Data Science and Machine Learning projects
-How to reach me: dengcamillo@outlook.com
 
